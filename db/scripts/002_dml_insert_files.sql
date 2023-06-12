@@ -1,0 +1,10 @@
+insert into files(name, path) values('Dzhentlmeni.jpg', 'files/Dzhentlmeni.jpg');
+insert into files(name, path) values('OnceUponATimeInHollywood.jpg', 'files/OnceUponATimeInHollywood.jpg');
+insert into files(name, path) values('JumanjiNewLevel.jpg', 'files/JumanjiNewLevel.jpg');
+insert into files(name, path) values('Avatar.jpg', 'files/Avatar.jpg');
+insert into files(name, path) values('Tor.jpg', 'files/Tor.jpg');
+insert into files(name, path) values('HatefulEight.jpg', 'files/HatefulEight.jpg');
+insert into files(name, path) values('LordOfTheRingsBrotherhoodOfTheRing.jpg', 'files/LordOfTheRingsBrotherhoodOfTheRing.jpg');
+insert into files(name, path) values('AvengersEndgame.jpg', 'files/AvengersEndgame.jpg');
+insert into files(name, path) values('ZackSnydersJusticeLeague.jpg', 'files/ZackSnydersJusticeLeague.jpg');
+insert into files(name, path) values('TheCovenant.jpg', 'files/TheCovenant.jpg');
